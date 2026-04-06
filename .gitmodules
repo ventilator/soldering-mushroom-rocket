@@ -1,0 +1,4 @@
+[submodule "kicad/mushroom_rocket/blinkyparts.pretty"]
+	path = kicad/mushroom_rocket/blinkyparts.pretty
+	url = https://codeberg.org/blinkyparts/blinkyparts.pretty.git
+	branch = main
