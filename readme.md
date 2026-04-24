@@ -1,12 +1,14 @@
 # Mushroom Rocket
 
+![video/switch_on_front_and_back_side](video/switch_on_front_and_back_side.gif)
+
 Easy soldering kit for a music festival
 ![Photo](photo-tutorial/solder_tutorial_27.webp)
 
 ![renderings/kicad_rendering.png](renderings/kicad_rendering.png)
 
 Video: video/switch_on_front_and_back_side.webm
-![video/switch_on_front_and_back_side](video/switch_on_front_and_back_side.gif)
+
 # Made with
 
 * Affinity Designer
@@ -93,3 +95,10 @@ A bit of hot glue at the bottom LED
 
 Finished. Now decorate the front side with glitter if you want to.
 ![Photo](photo-tutorial/solder_tutorial_42.webp)
+
+Animation
+Back side
+![Backside Glow](video/backside_glow.gif)
+
+Front side
+![Frontside Glow](frontside_glow.gif)
