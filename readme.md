@@ -6,6 +6,7 @@ Easy soldering kit for a music festival
 ![renderings/kicad_rendering.png](renderings/kicad_rendering.png)
 
 Video: video/switch_on_front_and_back_side.webm
+![video/switch_on_front_and_back_side](video/switch_on_front_and_back_side.gif)
 # Made with
 
 * Affinity Designer
@@ -92,7 +93,3 @@ A bit of hot glue at the bottom LED
 
 Finished. Now decorate the front side with glitter if you want to.
 ![Photo](photo-tutorial/solder_tutorial_42.webp)
-
-
-
-
