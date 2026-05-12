@@ -98,7 +98,9 @@ Finished. Now decorate the front side with glitter if you want to.
 
 Animation
 Back side
+
 ![Backside Glow](video/backside_glow.gif)
 
 Front side
-![Frontside Glow](frontside_glow.gif)
+
+![Frontside Glow](video/frontside_glow.gif)
