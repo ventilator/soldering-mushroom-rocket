@@ -102,5 +102,4 @@ Back side
 ![Backside Glow](video/backside_glow.gif)
 
 Front side
-
 ![Frontside Glow](video/frontside_glow.gif)
