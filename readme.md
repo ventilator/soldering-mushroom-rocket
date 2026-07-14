@@ -1,3 +1,5 @@
+Outdated and moved to https://github.com/Binary-Kitchen/SolderingTutorial/tree/master/Shrocket
+
 # Mushroom Rocket
 
 ![video/switch_on_front_and_back_side](video/switch_on_front_and_back_side.gif)
